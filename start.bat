@@ -1,0 +1,1 @@
+start .lpvenv\Scripts\activate

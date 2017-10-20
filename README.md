@@ -1,2 +1,2 @@
 # PythonVirtualEnviroment
-This a project for assisting in the installing and creation of python virtual enviroment. There are Two batch files one named venvcreator.bat for creating new enviroments and pipsetup.bat for installing the python pip virtualenv. This is made for python 2.7.14 currently.
+This a project for assisting in the installing and creation of python virtual enviroment. There are Two batch files one named nve.cmd (new virtual enviroment) for creating new enviroments and install.bmd for installing python pip virtualenv. It also adds the command nve to the console for when ever you need a new virtual enviroment. This is made for python 2.7.14 currently.

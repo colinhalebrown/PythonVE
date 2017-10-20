@@ -4,3 +4,4 @@ mkdir C:\PythonVE
 move nve.cmd C:\PythonVE
 setx Path "C:\PythonVE;%Path%" 
 start nve
+del install.cmd

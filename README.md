@@ -11,6 +11,6 @@ Some things of note:
 
 WHAT TO DO AFTER RUNNING INSTALL.CMD
 
-*Insert the directory you want the virtual environment to be located, then your project folder name. It will create a virtual environment in that location. Once it has been created it will activate automatically. The folder created with your chosen name includes the environment and an activate.bat, to reactivate the environment later just run the activate.cmd.
+* Insert the directory you want the virtual environment to be located, then your project folder name. It will create a virtual environment in that location. Once it has been created it will activate automatically. The folder created with your chosen name includes the environment and an activate.bat, to reactivate the environment later just run the activate.cmd.
 
 This is made for python 2.7.14, YOUR MILAGE MAY VARY.

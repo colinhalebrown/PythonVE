@@ -1,6 +1,5 @@
 @echo off
-echo WARNING THIS SHOULD ONLY BE RUN ONCE\n IT WILL DELETE PRE-EXISTING
-echo IF YOU WISH TO CONTINUE PRESS ENTER
+echo TO INSTALL PythonVE PRESS ENTER
 pause >nul
 REM Gathers dependencies
 C:\Users\Colin\AppData\Local\Programs\Python\Python37\Scripts\pip install virtualenv

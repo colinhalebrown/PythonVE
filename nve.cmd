@@ -1,6 +1,6 @@
 @echo off
 cd C:\Users\
-set /p dir=Directory:
+set /p dir=Directory: C:\Users\
 cd %dir%
 set /p Folder= Folder Name (no spaces):
 mkdir %Folder%

@@ -1,3 +1,6 @@
+# THIS PROJECT IS ARCHIVED
+It was created for a highschool IB CS assignment.
+
 # Python Virtual Environment
 This a batch script which streamlines the process of installing a Python virtual environment.
 
